@@ -3,7 +3,9 @@ We need two data sets for this project.
 This particular notebook will be for wrandling and cleaning the data.
 Other notebooks will be used for the data visualisation parts of the project
 
-The data is gotten from the FIFA world cup archives and is quite clean so there isn't a lot of cleaning to do
+The data is gotten from the FIFA world cup archives and is quite clean so there isn't a lot of cleaning to do.
+The columns that were missing over 90% of their data weren't relevant to the analysis so those columns were dropped
+
 '''
 
 #################################################
