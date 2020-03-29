@@ -20,3 +20,5 @@ Both files were obtained from the FIFA world cup archives and are available in t
 · Europe is the most successful footballing continent
 · Brazil, Germany, Italy, Argentina, France, England, Spain, Netherlands, Mexico, Uruguay, Sweden and Belgium make up the world cup elite.
 · There hasn't been a big change in the number of goals per match
+
+I discuss my findings in detail in this medium article (https://link.medium.com/ewmkn6L7f50)
