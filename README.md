@@ -13,7 +13,7 @@ The visualisations created using the code in this project were deigned to answer
 3) Have the number of goals per match increased over time?
 
 #Files Used
-1) The first file is a torunament level data that gives details about the tournaments. Some columns in this data set include the number of qualified teams, number of goals scored and eventual winner.
+1) The first file is a tournament level data that gives details about the tournaments. Some columns in this data set include the number of qualified teams, number of goals scored and eventual winner.
 
 2) The second file offers us more granular data at the individual match level that gives details about the specific matches. Some columns in this data set include the teams, number of goals scored and eventual winner of each match.
 
